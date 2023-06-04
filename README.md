@@ -1,5 +1,7 @@
 # Svelte
 
+https://svelte.dev/tutorial/basics
+
 ![](images/start.png)
 
 
@@ -25,3 +27,10 @@ npm run preview
 ```
 
 ![](images/svelte-setup.png)
+
+
+# Svelte KIT
+
+![](images/kit.png)
+
+![](images/sri-lanka.png)
