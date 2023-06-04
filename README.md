@@ -29,6 +29,11 @@ npm run preview
 ![](images/svelte-setup.png)
 
 
+# Hello Svelte!
+
+![](images/hello.png)
+
+
 # Svelte KIT
 
 ![](images/kit.png)
